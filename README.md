@@ -77,7 +77,7 @@ s.close()
 server:
 
 
-<img width="596" height="456" alt="Screenshot 2026-11-26 140943" src="https://github.com/user-attachments/assets/fe9b20a5-9783-4bfa-ad4c-0c4c06268a9c" />
+<img width="558" height="405" alt="Screenshot 2026-11-26 140935" src="https://github.com/user-attachments/assets/f0227138-3dd8-437b-a5d3-deb46df2d4b6" />
 
 
 
